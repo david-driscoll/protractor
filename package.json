@@ -16,7 +16,7 @@
     "minijasminenode": "~0.2.7",
     "saucelabs": "~0.1.0",
     "glob": "~3.2",
-    "adm-zip": "0.4.4",
+    "adm-zip": "0.4.16",
     "optimist": "~0.6.0",
     "q": "1.0.0",
     "lodash": "~2.4.1"
